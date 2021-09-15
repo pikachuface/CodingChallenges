@@ -11,6 +11,6 @@ All challenges in this folder have all of the related info in the their respecti
 - **Website name**
 - **URL**
 - **Difficulty**
-- **Explnation**
+- **Explanataon**
 - **Notes regarding the solution**
  
