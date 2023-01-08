@@ -1,4 +1,4 @@
-Filip Gajdušek | 3. 7. 2002 
+Filip Gajdušek
 Website: LeetCode
 Difficulty: Easy
 URL: https://leetcode.com/problems/longest-common-prefix/
